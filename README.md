@@ -37,6 +37,15 @@ A channel-optimized lightweight hybrid network for Varroa mite segmentation.
 
 ## Selected projects
 
+### [GymFixer](https://github.com/aduy2408/gymfixer)
+
+An AI-assisted workout posture analysis system that processes exercise videos into pose measurements, repetition counts, grouped form errors, and optional coaching feedback.
+
+- MediaPipe and OpenCV pose analysis
+- FastAPI backend with PostgreSQL
+- Next.js frontend with Recharts
+- Optional Gemini coaching layer
+
 ### [Manhwa Machine Translator](https://github.com/aduy2408/manhwa-machine-translator)
 
 A web-based Korean manhwa pipeline combining scraping, OCR, translation, library management, and asynchronous processing.
