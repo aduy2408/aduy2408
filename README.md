@@ -68,4 +68,5 @@ A text-to-animation system that converts text into pose data and FBX output for 
 
 ## Find me
 
+- Homepage: [aduy2408.github.io](https://aduy2408.github.io)
 - GitHub: [@aduy2408](https://github.com/aduy2408)
