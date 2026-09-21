@@ -43,7 +43,7 @@ My work focuses on building models that are lightweight, practical to train, and
 
 ### DICOM Preprocessing for Lung Detection
 
-**Presented at APWeb 2026** · A comparative study of DICOM preprocessing methods for chest X-ray detection.
+**APWeb 2026** · A comparative study of DICOM preprocessing methods for chest X-ray detection.
 
 - Raw min-max normalization, histogram equalization, percentile clipping, VOI LUT, adaptive percentile processing, and CLAHE
 - Evaluation with YOLOv8, Faster R-CNN, and RT-DETR
