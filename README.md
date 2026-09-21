@@ -24,30 +24,15 @@ My work focuses on building models that are lightweight, practical to train, and
 
 ### [LMSCA-YOLO](https://github.com/aduy2408/LMSCA-YOLO)
 
-**Accepted at EIDT 2026** · Lightweight Multi-Scale Compressed Attention for Tiny Varroa Mite Detection.
-
-- Multi-scale feature fusion with IRDCB
-- Scale-Aligned Gated Residual Injection (SAGRI)
-- Key-Value Compressed Attention (KVCA)
-- Deformable head refinement
-- Reported: **91.27% mAP50**, **35.66% mAP50-95**, **2.23M parameters**, **9.31 GFLOPs**
+**Accepted at EIDT 2026.** A lightweight detector for tiny Varroa mite detection that combines multi-scale feature fusion, gated detail injection, deformable refinement, and compressed attention, achieving **91.27% mAP50**, **35.66% mAP50-95**, **2.23M parameters**, and **9.31 GFLOPs**.
 
 ### [CLM-Net](https://github.com/aduy2408/CLM_Net)
 
-**Accepted at MIWAI 2026** · A channel-optimized lightweight hybrid network for Varroa mite segmentation.
-
-- Lightweight Neighborhood Attention Block (LNAB)
-- Lightweight Global Bottleneck (LGB)
-- Encoder-decoder architecture for small-object segmentation
-- Reported: **70.32% Dice**, **54.24% IoU**, **1.71M parameters**, **8.005 GFLOPs**
+**Accepted at MIWAI 2026.** A lightweight hybrid network for Varroa mite segmentation that uses partial neighborhood attention and a compressed global bottleneck, achieving **70.32% Dice**, **54.24% IoU**, **1.71M parameters**, and **8.005 GFLOPs**.
 
 ### DICOM Preprocessing for Lung Detection
 
-**APWeb 2026** · A comparative study of DICOM preprocessing methods for chest X-ray detection.
-
-- Raw min-max normalization, histogram equalization, percentile clipping, VOI LUT, adaptive percentile processing, and CLAHE
-- Evaluation with YOLOv8, Faster R-CNN, and RT-DETR
-- Comparison of single and combined image representations
+**APWeb 2026.** A comparative study of DICOM preprocessing methods for chest X-ray detection, evaluating normalization, histogram, percentile, VOI LUT, and CLAHE-based representations with YOLOv8, Faster R-CNN, and RT-DETR.
 
 ## Selected projects
 
