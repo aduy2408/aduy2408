@@ -12,13 +12,7 @@ My work focuses on building models that are lightweight, practical to train, and
 
 ## Research interests
 
-- Tiny object detection
-- Semantic segmentation
-- Lightweight CNN and CNN-Transformer architectures
-- Attention and feature-enhancement modules
-- Multi-scale feature fusion
-- Model diagnostics and ablation studies
-- PyTorch research implementation
+Computer vision · Object detection
 
 ## Accepted work
 
