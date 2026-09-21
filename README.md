@@ -2,7 +2,13 @@
 
 AI/ML researcher and developer based in Da Nang, Vietnam, working mainly on **computer vision**, **deep learning**, and **efficient neural-network architectures**.
 
-My research focuses on building models that are not only accurate, but also lightweight, interpretable, and practical to train and deploy.
+My work focuses on building models that are lightweight, practical to train, and carefully evaluated through controlled experiments and ablation studies.
+
+## Experience
+
+### AI Engineer Intern
+
+**FPT Information System (FPT IS / FIS)** · August 2025 – April 2026
 
 ## Research interests
 
@@ -14,11 +20,11 @@ My research focuses on building models that are not only accurate, but also ligh
 - Model diagnostics and ablation studies
 - PyTorch research implementation
 
-## Featured research
+## Accepted work
 
 ### [LMSCA-YOLO](https://github.com/aduy2408/LMSCA-YOLO)
 
-A lightweight detector for tiny Varroa mite detection in bee imagery.
+**Accepted at EIDT 2026** · Lightweight Multi-Scale Compressed Attention for Tiny Varroa Mite Detection.
 
 - Multi-scale feature fusion with IRDCB
 - Scale-Aligned Gated Residual Injection (SAGRI)
@@ -28,12 +34,20 @@ A lightweight detector for tiny Varroa mite detection in bee imagery.
 
 ### [CLM-Net](https://github.com/aduy2408/CLM_Net)
 
-A channel-optimized lightweight hybrid network for Varroa mite segmentation.
+**Accepted at MIWAI 2026** · A channel-optimized lightweight hybrid network for Varroa mite segmentation.
 
 - Lightweight Neighborhood Attention Block (LNAB)
 - Lightweight Global Bottleneck (LGB)
 - Encoder-decoder architecture for small-object segmentation
 - Reported: **70.32% Dice**, **54.24% IoU**, **1.71M parameters**, **8.005 GFLOPs**
+
+### DICOM Preprocessing for Lung Detection
+
+**Presented at APWeb 2026** · A comparative study of DICOM preprocessing methods for chest X-ray detection.
+
+- Raw min-max normalization, histogram equalization, percentile clipping, VOI LUT, adaptive percentile processing, and CLAHE
+- Evaluation with YOLOv8, Faster R-CNN, and RT-DETR
+- Comparison of single and combined image representations
 
 ## Selected projects
 
