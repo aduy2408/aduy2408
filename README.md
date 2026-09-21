@@ -26,7 +26,7 @@ Computer vision · Object detection
 
 ### DICOM Preprocessing for Lung Detection
 
-**APWeb 2026.** A comparative study of DICOM preprocessing methods for chest X-ray detection, evaluating normalization, histogram, percentile, VOI LUT, and CLAHE-based representations with YOLOv8, Faster R-CNN, and RT-DETR.
+**Accepted at APWeb 2026.** A comparative study of DICOM preprocessing methods for chest X-ray detection, evaluating normalization, histogram, percentile, VOI LUT, and CLAHE-based representations with YOLOv8, Faster R-CNN, and RT-DETR.
 
 ## Selected projects
 
@@ -60,13 +60,6 @@ A text-to-animation system that converts text into pose data and FBX output for 
 ## Tools and technologies
 
 `Python` · `PyTorch` · `OpenCV` · `Ultralytics` · `MMDetection` · `FastAPI` · `Redis` · `Blender` · `Linux`
-
-## What I am working on
-
-- Efficient architectures for tiny-object detection and segmentation
-- Better diagnostics for localization, ranking, and confidence behavior
-- Reproducible computer-vision research pipelines
-- Practical AI systems that connect research models to usable applications
 
 ## Find me
 
